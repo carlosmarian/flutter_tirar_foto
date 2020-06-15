@@ -48,7 +48,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
             ),
           )
         ],
-      ),      
+      ),
       floatingActionButton: FloatingActionButton(
         onPressed: getImage,
         tooltip: 'Tirar foto',
